@@ -1,0 +1,25 @@
+{
+  "name": "webpacklittlepro",
+  "version": "1.0.0",
+  "description": "##Pre Requirements",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielsky81/webpackLittlePro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielsky81/webpackLittlePro/issues"
+  },
+  "homepage": "https://github.com/danielsky81/webpackLittlePro#readme",
+  "devDependencies": {
+    "webpack": "^4.32.2",
+    "webpack-cli": "^3.3.2",
+    "webpack-dev-server": "^3.4.1"
+  }
+}
